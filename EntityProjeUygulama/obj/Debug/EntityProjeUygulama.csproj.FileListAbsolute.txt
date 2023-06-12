@@ -1,0 +1,17 @@
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe.config
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.pdb
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.dll
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.xml
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csprojResolveAssemblyReference.cache
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Form1.resources
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Properties.Resources.resources
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.GenerateResource.Cache
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.exe
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.pdb
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmAnaForm.resources
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmUrun.resources
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmIstatistik.resources
+c:\users\lenovopc\documents\visual studio 2015\Projects\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmGiris.resources
